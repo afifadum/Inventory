@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="inventory_login">Inventory Login</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="logout">Logout</string>
+    <string name="to_do">To Do</string>
+    <string name="enter_thing">Enter a thing...</string>
+    <string name="masuk_jumlah">Masukkan Jumlah...</string>
+    <string name="nama">Nama</string>
+    <string name="kode">Kode</string>
+    <string name="save">save</string>
+    <string name="tanggal">tanggal</string>
+    <string name="date">9 January</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+    <string name="start">START</string>
+</resources>
